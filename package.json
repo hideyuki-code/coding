@@ -1,0 +1,40 @@
+{
+  "name": "a-problems",
+  "version": "1.0.0",
+  "description": "TypeScriptでのアルゴリズム問題解決練習",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "problem1": "ts-node solutions/problem1.ts",
+    "problem2": "ts-node solutions/problem2.ts",
+    "problem3": "ts-node solutions/problem3.ts",
+    "problem4": "ts-node solutions/problem4.ts",
+    "problem5": "ts-node solutions/problem5.ts",
+    "problem6": "ts-node solutions/problem6.ts",
+    "problem7": "ts-node solutions/problem7.ts",
+    "problem8": "ts-node solutions/problem8.ts",
+    "problem9": "ts-node solutions/problem9.ts",
+    "problem10": "ts-node solutions/problem10.ts",
+    "problem11": "ts-node solutions/problem11.ts",
+    "problem12": "ts-node solutions/problem12.ts",
+    "problem13": "ts-node solutions/problem13.ts",
+    "problem14": "ts-node solutions/problem14.ts",
+    "problem15": "ts-node solutions/problem15.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "algorithms",
+    "typescript",
+    "practice"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.4.2",
+    "jest": "^29.6.1",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+} 
